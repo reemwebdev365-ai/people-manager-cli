@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "fname": "reem",
+        "lname": "mahmoud",
+        "age": 22,
+        "city": "cairo"
+    },
+    {
+        "id": 2,
+        "fname": "mona",
+        "lname": "mahmoud",
+        "age": 32,
+        "city": "cairo"
+    },
+    {
+        "id": 3,
+        "fname": "ola",
+        "lname": "mahmoud",
+        "age": 52,
+        "city": "cairo"
+    },
+    {
+        "id": 4,
+        "fname": "ahmed",
+        "lname": "hassan",
+        "age": 25,
+        "city": "alexandria"
+    },
+    {
+        "id": 5,
+        "fname": "sara",
+        "lname": "ali",
+        "age": 21,
+        "city": "giza"
+    },
+        {
+        "id": 6,
+        "fname": "omar",
+        "lname": "khaled",
+        "age": 30,
+        "city": "mansoura"
+    },
+    {
+        "id": 7,
+        "fname": "mona",
+        "lname": "ibrahim",
+        "age": 27,
+        "city": "aswan"
+    },
+    {
+        "id": 8,
+        "fname": "youssef",
+        "lname": "adel",
+        "age": 19,
+        "city": "tanta"
+    },
+    {
+        "id": 9,
+        "fname": "nour",
+        "lname": "samir",
+        "age": 23,
+        "city": "luxor"
+    },
+    {
+        "id": 10,
+        "fname": "khaled",
+        "lname": "mostafa",
+        "age": 28,
+        "city": "port said"
+    }
+
+]
